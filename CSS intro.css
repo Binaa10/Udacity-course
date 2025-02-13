@@ -1,0 +1,13 @@
+e {
+    color: blueviolet;
+    text-align: center;
+}
+div {
+    width: 50%;
+    margin: 0 auto;
+}
+#s {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
