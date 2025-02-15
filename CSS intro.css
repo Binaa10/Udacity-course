@@ -11,3 +11,34 @@ div {
     justify-content: center;
     align-items: center;
 }
+p em {
+   color: aqua;
+}
+li {
+    font-size: 1.5em;
+}
+.done{
+    text-decoration: line-through;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+    color: red;
+}
+#test{
+    border: 10px solid blue;
+    padding: 0.5em;
+    margin: 90px;
+    width: 150px;
+    height: 100px;
+    
+    
+}
+#blank {
+    border: 10px solid red;
+    padding: 0.5em;
+    margin: 90px;
+    width: 50px;
+    height: 50px;
+    float: right;
+}
