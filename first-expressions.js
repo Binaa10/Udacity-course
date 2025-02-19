@@ -153,7 +153,7 @@ while(g<=100){
     }
     g=g+1;
 }
-/*
+
 let fe=60;
 while(fe<=60){
     if (fe>=0){
@@ -191,7 +191,7 @@ else{
     break;
 }
     fe=fe-1;
-}*/
+}
 let qw=4;
 let factorial=1;
 for (let sd=1; sd<=qw; sd++){
